@@ -1406,7 +1406,7 @@ console.log("imageUrl",imageUrl);
           </table>
           <Box>
             <Text>Signature :</Text>
-            <img src={dilliPaysign} />
+            {/* <img src={dilliPaysign} /> */}
           
           </Box>
 

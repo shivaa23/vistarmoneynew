@@ -781,8 +781,11 @@ const CreditRequestView = () => {
                       sx={{
                         display: "flex",
                         justifyContent: "center",
-                        ml: { lg: 130, sm: 50, xs: 2 },
-                        top: { sm: "20%", lg: "15%" },
+                        ml: user.role === "Admin" 
+                        ? { lg: 130, sm: 50, xs: 2 } 
+                        : { lg: 110, sm: 50, xs: 2 },
+                      
+                        top: { sm: "20%", lg: "20%" },
                         right: { xs: 0, sm: 50 },
                         width: { xs: "auto", sm: "200px" },
                       }}

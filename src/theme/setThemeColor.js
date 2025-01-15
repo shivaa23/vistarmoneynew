@@ -32,7 +32,7 @@ export const getHoverInActive = () => {
 
 export const getTableHeadRowColor = () => {
   if (process.env.REACT_APP_TITLE === "VistarMoney") {
-    return "#4CAF50";
+    return "#e87204";
   }
 };
 

@@ -191,12 +191,12 @@ export default function SideNav(props, { data }) {
   const handleLogout = () => {
     authCtx.logout();
     setAnchorEl(null);
-    navigate("/login");
+    navigate("/");
   };
   const handleLogoutAll = () => {
     authCtx.logout();
     setAnchorEl(null);
-    navigate("/login");
+    navigate("/");
   };
   const [ip, setIp] = useState("");
   const [isPhone, setIsPhone] = useState(false);
