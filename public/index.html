@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/dillipay.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="DilliPay" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/dillipay.ico" />
+
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+
+    <title>%REACT_APP_TITLE%</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
+      crossorigin="anonymous"
+    />
+    <!-- <script type="text/javascript">
+      window.$crisp = [];
+      window.CRISP_WEBSITE_ID = "63cdfaa8-12b6-4d15-873f-0a439af0a1dd";
+      (function () {
+        d = document;
+        s = d.createElement("script");
+        s.src = "https://client.crisp.chat/l.js";
+        s.async = 1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+      })();
+    </script> -->
+  </head>
+  <body>
+    <script>
+      function reveal() {
+        var reveals = document.querySelectorAll(".reveal");
+        var reveals2 = document.querySelectorAll(".reveal2");
+        var right2left = document.querySelectorAll(".right2left");
+        var left2right = document.querySelectorAll(".left2right");
+        var top2Bottom = document.querySelectorAll(".top2Bottom");
+        var bottom2top = document.querySelectorAll(".bottom2top");
+
+        var focus = document.querySelectorAll(".focus");
+
+        // right animation
+        for (var i = 0; i < reveals.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = reveals[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (elementTop < windowHeight - elementVisible) {
+            reveals[i].classList.add("active");
+          } else {
+            reveals[i].classList.remove("active");
+          }
+        }
+
+        // left animation
+
+        for (var i = 0; i < reveals2.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = reveals2[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (elementTop < windowHeight - elementVisible) {
+            reveals2[i].classList.add("active");
+          } else {
+            reveals2[i].classList.remove("active");
+          }
+        }
+
+        // text scroler right animation
+
+        for (var i = 0; i < right2left.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = right2left[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (elementTop < windowHeight - elementVisible) {
+            right2left[i].classList.add("active");
+          } else {
+            right2left[i].classList.remove("active");
+          }
+        }
+        // text scroler left animation
+
+        for (var i = 0; i < left2right.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = left2right[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (elementTop < windowHeight - elementVisible) {
+            left2right[i].classList.add("active");
+          } else {
+            left2right[i].classList.remove("active");
+          }
+        }
+        //top to bottom
+        for (var i = 0; i < top2Bottom.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = top2Bottom[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (elementTop < windowHeight - elementVisible) {
+            top2Bottom[i].classList.add("active");
+          } else {
+            top2Bottom[i].classList.remove("active");
+          }
+        }
+        for (var i = 0; i < bottom2top.length; i++) {
+          var windowHeight = window.innerHeight;
+          var elementTop = bottom2top[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (elementTop < windowHeight - elementVisible) {
+            bottom2top[i].classList.add("active");
+          } else {
+            bottom2top[i].classList.remove("active");
+          }
+        }
+        //focus
+        for (var i = 0; i < focus.length; i++) {
+          var windowHeight = window.innerHeight;
+          var focus = focus[i].getBoundingClientRect().top;
+          var elementVisible = 150;
+
+          if (focus < windowHeight - elementVisible) {
+            focus[i].classList.add("active");
+          } else {
+            focus[i].classList.remove("active");
+          }
+        }
+      }
+
+      window.addEventListener("scroll", reveal);
+
+      ///text
+    </script>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js"
+      integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

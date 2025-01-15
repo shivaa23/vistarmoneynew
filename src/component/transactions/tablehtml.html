@@ -1,0 +1,67 @@
+<div className="txndetail-table">
+  <table>
+    <tbody>
+      <tr>
+        <th>Operator</th>
+        <td>{row?.operator}</td>
+      </tr>
+      <tr>
+        <th>Operator Id</th>
+        <td>{row?.op_id}</td>
+      </tr>
+      <tr>
+        <th>Order ID</th>
+        <td>{row?.order_id}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table>
+  <tbody>
+    <tr>
+      <th>Comm</th>
+      <td>{currencySetter(row?.ad_comm)}</td>
+    </tr>
+    <tr>
+      <th>TDS</th>
+      <td>{currencySetter(row?.ad_tds)}</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>Comm</th>
+      <td>{currencySetter(row?.ret_comm)}</td>
+    </tr>
+    <tr>
+      <th>TDS</th>
+      <td>{currencySetter(row?.ret_tds)}</td>
+    </tr>
+    <tr>
+      <th>Charge</th>
+      <td>{currencySetter(row?.ret_charge)}</td>
+    </tr>
+    {/*
+    <tr>
+      <th>GST</th>
+      <td>{currencySetter(row?.ret_charge)}</td>
+    </tr>
+    */}
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>Name</th>
+      <td>{row?.ben_name}</td>
+    </tr>
+    <tr>
+      <th>Account</th>
+      <td>{row?.ben_acc}</td>
+    </tr>
+  </tbody>
+</table>

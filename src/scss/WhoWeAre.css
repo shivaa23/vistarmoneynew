@@ -1,0 +1,182 @@
+/* WhoWeAre.css */
+
+/* General Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Main Wrapper */
+.who-we-are {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+  background-color: #87c88f;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Hero Section */
+.hero-section {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  margin: 10px 0 0;
+}
+
+/* Introduction Section */
+.introduction {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.intro-text p {
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Core Values Section */
+.core-values {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.value {
+  background-color: #a5d9df;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.5s ease-in-out;
+}
+
+.value h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.value p {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.fade-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Impact Section */
+.impact {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.statistics {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.stat {
+  background-color: #c3cfdd;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.stat h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: rgba(6, 9, 9, 0.8);
+}
+
+.stat p {
+  font-size: 1rem;
+  color: #000000;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 30px 10px;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  .core-values {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .value {
+    max-width: 90%;
+  }
+
+  .statistics {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
+
+  .stat h3 {
+    font-size: 1.2rem;
+  }
+
+  .stat p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 1.8rem;
+  }
+
+  .subtitle {
+    font-size: 0.9rem;
+  }
+
+  .intro-text p {
+    font-size: 0.9rem;
+  }
+
+  .value h3 {
+    font-size: 1.2rem;
+  }
+
+  .value p {
+    font-size: 0.9rem;
+  }
+
+  .stat h3 {
+    font-size: 1rem;
+  }
+
+  .stat p {
+    font-size: 0.8rem;
+  }
+}

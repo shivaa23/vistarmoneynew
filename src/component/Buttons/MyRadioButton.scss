@@ -1,0 +1,81 @@
+.custom_radiobtn {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.custom_radiobtn .MuiRadio-root {
+  display: none;
+}
+
+.radio-button {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  
+  border: 3px solid transparent;
+  display: inline-block;
+  border-radius: 30%;
+  position: relative;
+  text-align: center;
+  // box-shadow: 0 0 20px #4045A1;
+  box-shadow: 0px 0px 2px 2px #d25e2c   ;
+  cursor: pointer;
+}
+.radio-button-checked {
+  border: 3px solid #d25e2c ;
+  background-color: #00693E;
+}
+
+.radio-button > i {
+  transition: 0.2s;
+  pointer-events: none;
+  color: #fff;
+  border: 1px solid #ffffff;
+  background-color: #d25e2c;
+  font-size: 20px;
+  font-weight: 400;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  /* transform: translateX(-50%) scale(2); */
+  border-radius: 50%;
+  opacity: 1;
+  transform: translateX(-50%) scale(1);
+}
+
+.radio-img {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.radio-img > svg {
+  width: 40px;
+  height: 40px;
+}
+
+.radio-img > p {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #2a0e49;
+}
+.custom_content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+/* .custom_radiobtn .Mui-checked + .radio-button {
+  border: 3px solid #8373e6;
+}
+
+.custom_radiobtn .Mui-checked + .radio-button > i {
+  opacity: 1;
+  transform: translateX(-50%) scale(1);
+} */
