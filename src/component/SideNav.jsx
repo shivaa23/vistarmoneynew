@@ -362,7 +362,7 @@ export default function SideNav(props, { data }) {
         {(open || mobileOpen) && (
           <LogoComponent
             style={{
-              padding: "4px",
+              padding: "6px",
               display: "block",
               margin: "0 auto",
               backgroundColor: whiteColor(),
@@ -388,8 +388,8 @@ export default function SideNav(props, { data }) {
         sx={{
           height: { xs: "80vh", sm: "100vh" },
           overflowY: "scroll",
-          background: "#D53E3E",
-          // background: "#DF400C",
+          // background: "#D53E3E",
+          background: "#E87204",
           borderRadius: "0px 10px",
         }}
       >
@@ -820,9 +820,10 @@ export default function SideNav(props, { data }) {
                 zIndex: "1000",
                 display: { xs: "none", sm: "block" },
                 "& .MuiDrawer-paper": {
+                  background: "#e87204",
                   boxShadow: "0 4px 30px rgba(0, 0, 0, 0.1)",
                   backdropFilter: "blur(10px)",
-                  // border: "1px solid rgba(35, 25, 66, 0.3)",
+                  border: "1px solid rgba(35, 25, 66, 0.3)",
                 },
               }}
               className=""

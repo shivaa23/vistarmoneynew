@@ -1,5 +1,5 @@
-import biggpayLogo from "./assets/dilliPay.png";
-import biggpayLogo_sm from "./assets/dilliPay.png";
+import biggpayLogo from "./assets/vistar_logo .png";
+import biggpayLogo_sm from "./assets/vistar_logo .png";
 import airIndia from "./assets_travel/images/icons/AI.png";
 import closeicon from "./assets_travel/images/icons/close1.png";
 import successVdo from "./assets/video/checkmark.mp4";
@@ -147,7 +147,7 @@ import flightlogo from "./assets/svg/flight.jpeg";
 import neftlogo from "./assets/svg/neft_icon.svg";
 import impslogo from "./assets/svg/imps_icon.svg";
 import ChildPhoto from "./assets/Child.jpg";
-import Admindashlogo from "./assets/dilliPay.png";
+import Admindashlogo from "./assets/vistar_logo .png";
 import Upi from "./assets/svg/upi-icon.svg";
 import Limiticon from "./assets/LimitAcc.png";
 import Limit from "./assets/LimitTran.png";
