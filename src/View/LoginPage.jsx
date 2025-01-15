@@ -32,6 +32,7 @@ import {
   lockicon,
   loginPage1,
   LoginPageIllustratorImg,
+  LoginPageIllustratorImg2,
   mobilelogin,
 } from "../iconsImports";
 import ForgotPass from "../modals/ForgotPass";
@@ -357,46 +358,51 @@ const LoginPage = () => {
         )}
         {/* Left Column - Hidden on medium and smaller screens */}
         <Hidden mdDown>
-          <Grid
-            item
-            xs={12}
-            md={7}
-            lg={7}
-            sx={{
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "center",
-              padding: 9,
-              backgroundImage: `url(${LoginPageIllustratorImg})`,
-              backgroundSize: "cover",
-              backgroundPosition: "center",
-              backgroundRepeat: "no-repeat",
-              height: "100vh",
-              width: "100%",
-            }}
-          >
-            <Typography
-              variant="h1"
-              sx={{
-                color: "#fff",
-                // mb: { xs: 10, sm: 15, md: 12 },
-                // mt:{lg:0},
-                // textAlign: {xs:"center",md:"left"},
-                // marginLeft:{xs:0,sm:-10,md:-6,lg:16},
-                fontSize: { xs: "18px", sm: "20px", md: "32px", lg: "44px" },
-                fontFamily: "Manrope",
-                justifyContent: "top",
-                alignItems: "center",
-                lineHeight: "1.3",
-                letterSpacing: "0.08em",
+        <Grid
+  item
+  xs={12}
+  md={7}
+  lg={7}
+  sx={{
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "center",
+    padding: 9,
+    backgroundImage: `url(${LoginPageIllustratorImg})`,
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    height: "100vh",
+    width: "100%",
+  }}
+>
+  <Typography
+    variant="h1"
+    sx={{
+      color: "#fff",
+      fontSize: { xs: "18px", sm: "20px", md: "32px", lg: "44px" },
+      fontFamily: "Manrope",
+      lineHeight: "1.3",
+      letterSpacing: "0.08em",
+     
+    }}
+  >
+    VistarMoney <br /> Simplifying Payments <br /> Amplifying Growth
+  </Typography>
+  <Box
+    component="img"
+    src={LoginPageIllustratorImg2}
+    alt="Login Page Illustrator"
+    sx={{
+      borderRadius:"20px",
+     // Add some margin to separate from the Typography
+      width: "100%", // Adjust as needed
+      maxWidth: "400px", // Optional: limit the max width
+      alignSelf: "center", // Center the image within the flex container
+    }}
+  />
+</Grid>
 
-                mb: { lg: "250px" },
-                // marginLeft: { xs: 0, sm: -10, md: -6, lg: 0 },
-              }}
-            >
-              VistarMoney <br /> Simplifying Payments <br /> Amplifying Growth
-            </Typography>
-          </Grid>
         </Hidden>
 
         {/* Right Column - Always visible */}

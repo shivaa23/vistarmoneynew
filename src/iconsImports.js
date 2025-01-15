@@ -6,7 +6,10 @@ import successVdo from "./assets/video/checkmark.mp4";
 import failedVdo from "./assets/video/exclaimation.mp4";
 import smallLogo from "./assets/small_logo.jpeg";
 import outlet_reg_img from "./assets/outletreg.png";
-import LoginPageIllustrator from "./assets/LoginPageSideIllustration.svg";
+// import LoginPageIllustrator from "./assets/LoginPageSideIllustration.svg";
+// import LoginPageIllustrator from "./assets/loginpageback.png";
+import LoginPageIllustrator from "./assets/Desktop.png";
+import illetratepic from "./assets/illetratepic.jpeg";
 
 //
 import bbps from "./assets/bbps.png";
@@ -240,6 +243,7 @@ export const TrainsImage = TrainImage;
 export const HotelsImage = HotelImage;
 export const BusesImage = BusImage;
 export const LoginPageIllustratorImg = LoginPageIllustrator;
+export const LoginPageIllustratorImg2 = illetratepic;
 
 export const imps_l = impsLogo;
 export const neft_l = neftLogo;
