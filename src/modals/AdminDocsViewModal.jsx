@@ -303,7 +303,7 @@ const AdminDocsViewModal = ({ row, refresh }) => {
             }}
           >
             <ModalHeader
-              subtitle="Secure Your Trust: Easily Verify Your Documents with DilliPay!"
+              subtitle="Secure Your Trust: Easily Verify Your Documents with VistarMoney!"
               title="Verify Documents"
               handleClose={handleClose}
               icon={<UploadIcon />}

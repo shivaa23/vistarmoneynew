@@ -124,7 +124,7 @@ export const genders = [
 ];
 
 export const PROJECTS = {
-  imps: "DilliPay",
+  imps: "VistarMoney",
   paisakart: "PaisaKart",
   moneyoddr: "MoneyOddr",
 };

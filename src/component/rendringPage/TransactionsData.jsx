@@ -58,7 +58,7 @@ const TransactionsData = () => {
     },
   ]);
   const handleChange = (event, newValue) => {
-    if (process.env.REACT_APP_TITLE === "DilliPay")
+    if (process.env.REACT_APP_TITLE === "VistarMoney")
       setTxnDataDuration(newValue);
     else setTxnDataDuration(event);
   };

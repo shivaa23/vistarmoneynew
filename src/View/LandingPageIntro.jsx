@@ -32,7 +32,7 @@ const LandingPageIntro = () => {
         >
           <Grid
             item
-            md={env === "DilliPay" || env === "PaisaKart" ? 6 : 12}
+            md={env === "VistarMoney" || env === "PaisaKart" ? 6 : 12}
             sm={12}
           >
             <Box
@@ -81,7 +81,7 @@ const LandingPageIntro = () => {
                       textAlign: "justify",
                     }}
                   >
-                    <b>{env === "DilliPay" ? "DilliPay" : "PaisaKart"}</b> is
+                    <b>{env === "VistarMoney" ? "VistarMoney" : "PaisaKart"}</b> is
                     designed to simplify and secure online transactions for
                     businesses and individuals.
                   </p>

@@ -107,7 +107,7 @@ const LandingServicesPage = () => {
             <Typography className="box-para justify-content">
               With
               <span style={{ marginRight: "3px", marginLeft: "3px" }}>
-                {envName === "MoneyOddr" ? "MoneyOddR" : "DilliPay"}
+                {envName === "MoneyOddr" ? "MoneyOddR" : "VistarMoney"}
               </span>
               merchant app, choose from a variety of operators like Airtel DTH,
               Dish TV, Videocon D2h.
@@ -286,7 +286,7 @@ const LandingServicesPage = () => {
             ></Box>
             <div className="landing-bg_para" style={{ textAlign: "justify" }}>
               <span style={{ marginRight: "10px" }}>
-                {getEnv() === "MoneyOddr" ? "MoneyOddR" : "DilliPay"}
+                {getEnv() === "MoneyOddr" ? "MoneyOddR" : "VistarMoney"}
               </span>
               brings you one more attractive option of increasing your options
               of accepting payments in the form of QR codes or UPI. Basically QR

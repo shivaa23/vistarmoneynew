@@ -89,7 +89,7 @@ const AddNews = ({ refresh }) => {
             <ModalHeader
               title="Add news"
               handleClose={handleClose}
-              subtitle="Easily Add New news with DilliPay"
+              subtitle="Easily Add New news with VistarMoney"
             />
             <Box
               component="form"

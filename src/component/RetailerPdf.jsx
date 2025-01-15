@@ -150,7 +150,7 @@ const RetailerPdf = ({ user }) => {
               opacity: "0.7",
             }}
           >
-            DILLIPAY TECHNOLOGIES LIMITED 
+            VistarMoney TECHNOLOGIES LIMITED 
           </Text>
           <Text
             style={{

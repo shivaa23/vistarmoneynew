@@ -385,7 +385,7 @@ const AEPS2FAModal = ({
                 ? "Select AePS Type"
                 : "2 Factor Authentication"
             }
-            subtitle="Enjoy seamless aadhaar services with DilliPay"
+            subtitle="Enjoy seamless aadhaar services with VistarMoney"
             handleClose={handleClose}
           />
           <Box

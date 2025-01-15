@@ -294,7 +294,7 @@ const NepalMtModal = ({ receiver, nepalAllRes, customerMobile }) => {
           <ModalHeader
             title={`Send Money (${capitalize1(receiver?.Name)})`}
             handleClose={handleClose}
-            subtitle="Seamless Indo-Nepal Transfers: Send Cash Across Borders with DilliPay!"
+            subtitle="Seamless Indo-Nepal Transfers: Send Cash Across Borders with VistarMoney!"
           />
           <Box
             component="form"

@@ -305,7 +305,7 @@ const AePS2OutletRegistration = ({ open, setOpen, refresh }) => {
           <Loader loading={request} />
           <ModalHeader
             title="Outlet Registration(AePS 2)"
-            subtitle="Enjoy seamless aadhaar services with DilliPay"
+            subtitle="Enjoy seamless aadhaar services with VistarMoney"
             handleClose={handleClose}
           />
           <Box

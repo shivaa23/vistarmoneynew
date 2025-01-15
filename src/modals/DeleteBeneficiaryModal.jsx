@@ -144,7 +144,7 @@ const DeleteBeneficiaryModal = ({
         <Box sx={style} className="sm_modal">
           <Loader loading={request} />
           <ModalHeader
-          subtitle="Simplify Your List: Easily Remove Beneficiaries with DilliPay!"
+          subtitle="Simplify Your List: Easily Remove Beneficiaries with VistarMoney!"
             title={
               view === "expressTransfer"
                 ? "Delete Vendor"

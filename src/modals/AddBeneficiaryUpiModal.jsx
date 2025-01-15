@@ -101,7 +101,7 @@ const AddBeneficiaryUpiModal = ({ rem_mobile, apiEnd, getRemitterStatus }) => {
           <Loader loading={request} />
           <ModalHeader
             title="Add Beneficiary"
-            subtitle="Easily Add Your Beneficiary and Simplify Your Transactions with DilliPay!"
+            subtitle="Easily Add Your Beneficiary and Simplify Your Transactions with VistarMoney!"
             handleClose={handleClose}
           />
 

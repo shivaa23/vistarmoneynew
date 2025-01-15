@@ -36,7 +36,7 @@ import { CableIcon } from "../iconsImports";
 import { CableInv } from "../iconsImports";
 
 export const getRecAndBillImg = (img) => {
-  if (process.env.REACT_APP_TITLE === "DilliPay") {
+  if (process.env.REACT_APP_TITLE === "VistarMoney") {
     if (img) {
       if (img === "Mobile Postpaid") return recharge_white;
       else if (img === "Mobile Prepaid") return recharge_white;
@@ -63,7 +63,7 @@ export const getRecAndBillImg = (img) => {
   return electricity_svg;
 };
 export const getRecAndBillInvertImg = (img) => {
-  if (process.env.REACT_APP_TITLE === "DilliPay") {
+  if (process.env.REACT_APP_TITLE === "VistarMoney") {
     if (img) {
       if (img === "Mobile Postpaid") return recharge_white_invert;
       else if (img === "Mobile Prepaid") return recharge_white_invert;

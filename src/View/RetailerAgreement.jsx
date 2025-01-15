@@ -432,7 +432,7 @@ const RetailerAgreement = () => {
           </Typography>
 
           <Typography variant="h5" fontWeight="bold" gutterBottom>
-            DILLIPAY TECHNOLOGIES LIMITED
+            VistarMoney TECHNOLOGIES LIMITED
           </Typography>
           <Typography variant="body1" paragraph>
             A company incorporated under The Companies Act, 2013, having its
@@ -440,7 +440,7 @@ const RetailerAgreement = () => {
             Rohini, Delhi-110085.
           </Typography>
           <Typography variant="body1" paragraph>
-            (Hereinafter referred to as “DilliPay” which expression shall,
+            (Hereinafter referred to as “VistarMoney” which expression shall,
             unless repugnant to the context or meaning thereof, include their
             successors and permitted assigns) of the ONE PART; and
           </Typography>
@@ -453,7 +453,7 @@ const RetailerAgreement = () => {
             successors and permitted assigns) of the SECOND PART.
           </Typography>
           <Typography variant="body1" paragraph>
-            The DilliPay and the Retailer are herein collectively referred to as
+            The VistarMoney and the Retailer are herein collectively referred to as
             the “Parties” and individually as a “Party.”
           </Typography>
 
@@ -469,14 +469,14 @@ const RetailerAgreement = () => {
           </Typography>
           <Typography variant="body1" paragraph>
             Subject to the terms and conditions contained in this Retailer
-            Agreement, DilliPay hereby appoints the Retailer on a non-exclusive
+            Agreement, VistarMoney hereby appoints the Retailer on a non-exclusive
             basis for the Territory to provide the services mentioned in
             Annexure-I (hereinafter referred to as "Services"), and the Retailer
             hereby agrees to provide the Services.
           </Typography>
           <Typography variant="body1" paragraph>
-            The Retailer may describe himself as DilliPay’s authorised Retailer,
-            but must not hold itself out as being entitled to bind DilliPay in
+            The Retailer may describe himself as VistarMoney’s authorised Retailer,
+            but must not hold itself out as being entitled to bind VistarMoney in
             any way.
           </Typography>
 
@@ -498,8 +498,8 @@ const RetailerAgreement = () => {
             either Party in accordance with clause 13.
           </Typography>
           <Typography variant="body1" paragraph>
-            Upon expiry, the Agreement may be renewed at DilliPay’s option, on
-            mutually agreed terms, provided that DilliPay informs the Retailer
+            Upon expiry, the Agreement may be renewed at VistarMoney’s option, on
+            mutually agreed terms, provided that VistarMoney informs the Retailer
             one month prior to the completion of the Term.
           </Typography>
         </Page>
@@ -517,8 +517,8 @@ const RetailerAgreement = () => {
             </Typography>
 
             <Typography variant="body1" paragraph>
-              During the Term, the Retailer shall render to DilliPay services as
-              defined in Annexure-I. DilliPay reserves the right to modify,
+              During the Term, the Retailer shall render to VistarMoney services as
+              defined in Annexure-I. VistarMoney reserves the right to modify,
               alter, or amend the list of Services, and the Retailer agrees to
               be bound by any such changes.
             </Typography>
@@ -538,14 +538,14 @@ const RetailerAgreement = () => {
 
             <Typography variant="body1" paragraph>
               The Distributor and Retailer shall mutually agree upon a Business
-              Plan for sourcing retailers for DilliPay. DilliPay reserves the
+              Plan for sourcing retailers for VistarMoney. VistarMoney reserves the
               right to appoint additional Distributors or terminate this
               Agreement if the Distributor fails to meet the agreed minimum
               targets.
             </Typography>
             <Typography variant="body1" paragraph>
               The Distributor is solely responsible for managing credit
-              transactions with the retailers in its Territory, and DilliPay is
+              transactions with the retailers in its Territory, and VistarMoney is
               not liable for any disputes arising from such transactions.
             </Typography>
           </section>
@@ -564,7 +564,7 @@ const RetailerAgreement = () => {
             <Page size="A4" style={styles.page}>
               <Typography variant="body1" paragraph>
                 The Retailer shall deposit a sum of INR [……….../=] [……..in
-                words……...] with the DilliPay on or before the effective date.
+                words……...] with the VistarMoney on or before the effective date.
                 The deposit shall be non-interest bearing and shall be refunded
                 at the time of termination of the Retailer Agreement in
                 accordance with the provision defined in clause 14 (Consequences
@@ -572,16 +572,16 @@ const RetailerAgreement = () => {
               </Typography>
 
               <Typography variant="body1" paragraph>
-                The Retailer acknowledges that the DilliPay may reject the
+                The Retailer acknowledges that the VistarMoney may reject the
                 deposit at its sole discretion on or before the effective date.
               </Typography>
               <Typography variant="body1" paragraph>
-                The Retailer acknowledges that the DilliPay may reject the
+                The Retailer acknowledges that the VistarMoney may reject the
                 deposit at its sole discretion on or before the effective date.
               </Typography>
             </Page>
             <Typography variant="body1" paragraph>
-              Retailer agrees and acknowledges that the DilliPay shall not be
+              Retailer agrees and acknowledges that the VistarMoney shall not be
               responsible or liable in any manner whatsoever for the sources of
               such deposits and/or working capital, and it is the sole
               responsibility of the Retailer to ensure that the sources of such
@@ -589,37 +589,37 @@ const RetailerAgreement = () => {
               accordance with the law of India.
             </Typography>
             <Typography variant="body1" paragraph>
-              All the amount due to DilliPay under this Retailer Agreement,
+              All the amount due to VistarMoney under this Retailer Agreement,
               including the deposit and working capital and/or platform fee,
               shall be deposited in accordance with the instructions provided in
-              Annexure-II. Retailer agrees and acknowledges that the DilliPay
+              Annexure-II. Retailer agrees and acknowledges that the VistarMoney
               may, by prior written notice of two business days, modify any of
               the details mentioned in Annexure-II and the Retailer shall be
               bound by all such modifications
             </Typography>
 
             <Typography variant="body1" paragraph>
-              Retailer acknowledges and agrees that DilliPay strictly prohibits
+              Retailer acknowledges and agrees that VistarMoney strictly prohibits
               any third-party deposits in any bank accounts via any mode
               whatsoever. In the event that Retailer or its Retailer indulges in
               any such transaction(s) knowingly or unknowingly, the Retailer
-              authorizes DilliPay to freeze its account immediately.
+              authorizes VistarMoney to freeze its account immediately.
             </Typography>
 
             <Typography variant="body1" paragraph>
               Retailer shall be entitled to the commission, discount or service
               fee, or such other remuneration referred in the Services, as may
-              be specified by the DilliPay, from time to time and published on
-              DilliPay’s portal. All the amounts paid by way of the commission
+              be specified by the VistarMoney, from time to time and published on
+              VistarMoney’s portal. All the amounts paid by way of the commission
               shall be exclusive to all applicable taxes, including goods and
               service tax, surcharge, cess etc., by whatsoever name called, and
               such taxes will be subject to the deduction of tax at source, if
-              applicable; DilliPay shall debit the account of the Retailer to
+              applicable; VistarMoney shall debit the account of the Retailer to
               the extent of such taxes.
             </Typography>
             <Typography variant="body1" paragraph>
               The commission shall accrue to the Retailer only on receipt and
-              realization of full payment by the DilliPay of all dues from the
+              realization of full payment by the VistarMoney of all dues from the
               retailers who are managed by the Distributor.
             </Typography>
             <Typography variant="body1" paragraph>
@@ -630,7 +630,7 @@ const RetailerAgreement = () => {
             <Typography variant="body1" paragraph>
               Payments made to the Retailer shall be subject to such withholding
               as prescribed under the applicable law, subject to the aforesaid,
-              DilliPay assumes no responsibility for the tax compliance of the
+              VistarMoney assumes no responsibility for the tax compliance of the
               Retailer.
             </Typography>
 
@@ -642,7 +642,7 @@ const RetailerAgreement = () => {
               transactions whatsoever.
             </Typography>
             <Typography variant="body1" paragraph>
-              The Retailer agrees and authorizes DilliPay to impose cash deposit
+              The Retailer agrees and authorizes VistarMoney to impose cash deposit
               bank charges which shall be subject to deduction from the payments
               made to the Retailer.
             </Typography>
@@ -655,36 +655,36 @@ const RetailerAgreement = () => {
             <Typography variant="body1" paragraph>
               Retailer agrees and acknowledges that in case of any deviation
               with respect to the use of key salt, it shall be solely liable and
-              responsible; and in such event, DilliPay is authorized to
+              responsible; and in such event, VistarMoney is authorized to
               immediately deactivate the account of Retailer without any prior
-              notice. DilliPay shall not be held responsible for any
+              notice. VistarMoney shall not be held responsible for any
               consequences that arise out of any unauthorized use of its
               platform in any manner.
             </Typography>
 
             <Typography variant="body1" paragraph>
-              The Retailer agrees and authorizes DilliPay to freeze its account
-              or account of its Retailer in the event DilliPay receives any
+              The Retailer agrees and authorizes VistarMoney to freeze its account
+              or account of its Retailer in the event VistarMoney receives any
               complaint from any relevant statutory or non-statutory authority
               or any government department or agency. The Retailer further
-              agrees and authorizes DilliPay to withdraw the disputed amount
+              agrees and authorizes VistarMoney to withdraw the disputed amount
               along with the anticipated penalty from the such frozen account.
             </Typography>
 
             <Typography variant="body1" paragraph>
               Retailer agrees and acknowledges that all the sales/ receipts of
-              the Retailer regarding the DilliPay shall be immediately Deposit
+              the Retailer regarding the VistarMoney shall be immediately Deposit
               or transfer of the funds into the designated Bank Accounts of the
-              DilliPay and shall get limit from the Company/ DilliPay
+              VistarMoney and shall get limit from the Company/ VistarMoney
               thereafter. The Retailer shall ensure that the working limit in
-              the portal by DilliPay against the cash deposit or funds transfer
+              the portal by VistarMoney against the cash deposit or funds transfer
               is made available to the Retailer immediately. The Retailer shall
-              inform to the Company/ DilliPay in predefined format, if the
+              inform to the Company/ VistarMoney in predefined format, if the
               Retailer fails to inform the same within seven calendar days the
-              amount will be forfeit by the Company/ DilliPay. Retailer may
+              amount will be forfeit by the Company/ VistarMoney. Retailer may
               deposit such cash self or via its employee or agent or any
               authorized person into the designated Bank Accounts of the
-              DilliPay.
+              VistarMoney.
             </Typography>
           </section>
 
@@ -705,14 +705,14 @@ const RetailerAgreement = () => {
               independent offices equipped with the necessary infrastructure and
               workforce required to provide the Services. The Retailer shall
               provide a prior written intimation of any changes in the location
-              of such office to DilliPay.
+              of such office to VistarMoney.
             </Typography>
             <Typography variant="body1" paragraph>
-              DilliPay may, at its discretion, provide advice to the Retailer in
+              VistarMoney may, at its discretion, provide advice to the Retailer in
               relation to exteriors and interiors of the Retailer’s office,
               investment information technology systems, basic accounting and
               business procedure etc. The Retailer shall be bound by such advice
-              of DilliPay.
+              of VistarMoney.
             </Typography>
           </section>
           <section>
@@ -730,7 +730,7 @@ const RetailerAgreement = () => {
             <Typography variant="body1" paragraph>
               The Retailer shall develop adequate and relevant market
               intelligence in relation to the Territory and shall inform
-              DilliPay from time to time about the activities of other
+              VistarMoney from time to time about the activities of other
               persons/companies engaged in a similar business.
             </Typography>
           </section>
@@ -749,7 +749,7 @@ const RetailerAgreement = () => {
 
           <Typography variant="body1" paragraph>
             The Retailer shall engage the minimum number of personnel as
-            specified by the DilliPay and such other additional personnel as may
+            specified by the VistarMoney and such other additional personnel as may
             be required to effectively provide the Services. The Retailer shall
             ensure that all personnel employed in the provision of the Services
             shall be adequately trained and shall comply with the Term of this
@@ -759,10 +759,10 @@ const RetailerAgreement = () => {
           </Typography>
           <Typography variant="body1" paragraph>
             The Retailer shall be liable and responsible for any data theft or
-            misuse of any data related to clients of DilliPay from its office.
+            misuse of any data related to clients of VistarMoney from its office.
           </Typography>
           <Typography variant="body1" paragraph>
-            The Retailer agrees and acknowledges that DilliPay will not have any
+            The Retailer agrees and acknowledges that VistarMoney will not have any
             obligations, liability or responsibility whatsoever to supervise or
             manage the Retailer's employees, agents or independent contractors.
           </Typography>
@@ -781,11 +781,11 @@ const RetailerAgreement = () => {
             </Typography>
 
             <Typography variant="body1" paragraph>
-              DilliPay hereby grants the Retailer a limited, non-exclusive,
+              VistarMoney hereby grants the Retailer a limited, non-exclusive,
               non-transferable, non-assignable and royalty- free license to use
               the Software for the purpose of providing the Services as
               contemplated under this Retailer Agreement, which may be revoked
-              by DilliPay at its sole discretion.
+              by VistarMoney at its sole discretion.
             </Typography>
             <Typography variant="body1" paragraph>
               The Retailer is expressly prohibited from distributing,
@@ -795,27 +795,27 @@ const RetailerAgreement = () => {
             </Typography>
             <Typography variant="body1" paragraph>
               The Retailer may utilize any third-party software other than the
-              Software provided by DilliPay, only with prior permission from
-              DilliPay. Further, the Retailer shall ensure that the third-party
+              Software provided by VistarMoney, only with prior permission from
+              VistarMoney. Further, the Retailer shall ensure that the third-party
               software is validly licenced and installed.
             </Typography>
             <Typography variant="body1" paragraph>
-              The DilliPay shall retain all the rights over all the intellectual
+              The VistarMoney shall retain all the rights over all the intellectual
               property, including the Software, its name and logo and all the
               rights in relation to the promotion and marketing materials. The
               Retailer hereby acknowledges that (a) the execution of this
               Retailer Agreement does not amount to any transfer to it of any
-              intellectual property rights held by the DilliPay prior to the
+              intellectual property rights held by the VistarMoney prior to the
               execution of this Retailer Agreement, nor does this Retailer
-              Agreement in any way limit the DilliPay’s rights over its
+              Agreement in any way limit the VistarMoney’s rights over its
               intellectual property, including the right to licence to others
               and, (b) any and all goodwill arising from the Retailer’s use of
-              the intellectual property shall be exclusive ofDilliPay without
+              the intellectual property shall be exclusive ofVistarMoney without
               any compensation to anyone.
             </Typography>
             <Typography variant="body1" paragraph>
-              The Retailer shall not use the Software of the DilliPay in any
-              manner whatsoever without the written permission of the DilliPay.
+              The Retailer shall not use the Software of the VistarMoney in any
+              manner whatsoever without the written permission of the VistarMoney.
             </Typography>
           </section>
 
@@ -845,7 +845,7 @@ const RetailerAgreement = () => {
               course of its business.
             </Typography>
             <Typography variant="body1" paragraph>
-              That Retailer agrees and acknowledges that the DilliPay has a
+              That Retailer agrees and acknowledges that the VistarMoney has a
               responsibility to its customers to keep customer information
               strictly confidential. The Retailer agrees and acknowledges to
               keep all information related to customers strictly confidential
@@ -881,30 +881,30 @@ const RetailerAgreement = () => {
               Retailer or any relative or nominee of the Retailer is a director
               or shareholder, 1.) be appointed as a Retailer for any other
               person or legal entity which is carrying on a business similar or
-              in competition with any business carried by DilliPay at the
+              in competition with any business carried by VistarMoney at the
               relevant time, whether in India or abroad, or 2.) engage in any
               business that is similar to or in competition with any business
-              carried on by the DilliPay at the relevant time.
+              carried on by the VistarMoney at the relevant time.
             </Typography>
             <Typography variant="body1" paragraph>
               During the Term of Retailer Agreement, the Retailer shall not
-              either directly or indirectly solicit any employee of DilliPay for
+              either directly or indirectly solicit any employee of VistarMoney for
               employment, induce or attempt to induce any such employee to
-              terminate or breach his or her employment agreement with DilliPay,
+              terminate or breach his or her employment agreement with VistarMoney,
               or hire any such employee or associate with any such employee,
-              either during the course of their employment with DilliPay or
-              after the termination of their employment with the DilliPay.
+              either during the course of their employment with VistarMoney or
+              after the termination of their employment with the VistarMoney.
             </Typography>
             <Typography variant="body1" paragraph>
               During the Term of this Retailer Agreement, the Retailer shall not
               either directly or indirectly, solicit, cause in any part or
               knowingly encourage any existing or potential clients or customers
-              of DilliPay to cease doing business or not to do business, in
-              whole or in part of with DilliPay, or solicit, cause in any part
+              of VistarMoney to cease doing business or not to do business, in
+              whole or in part of with VistarMoney, or solicit, cause in any part
               or knowingly encourage any existing or potential clients or
-              customers of DilliPay to do business with any person other then
-              DilliPay, or associate with any prospective clients or customers
-              while they continue to be clients or customers of DilliPay.
+              customers of VistarMoney to do business with any person other then
+              VistarMoney, or associate with any prospective clients or customers
+              while they continue to be clients or customers of VistarMoney.
             </Typography>
           </section>
 
@@ -921,8 +921,8 @@ const RetailerAgreement = () => {
             </Typography>
 
             <Typography variant="body1" paragraph>
-              The Retailer shall only market and promote Services of DilliPay,
-              as authorized by the DilliPay.
+              The Retailer shall only market and promote Services of VistarMoney,
+              as authorized by the VistarMoney.
             </Typography>
           </section>
 
@@ -939,23 +939,23 @@ const RetailerAgreement = () => {
             </Typography>
 
             <Typography variant="body1" paragraph>
-              DilliPay may terminate this Retailer Agreement of the Retailer
-              with immediate effect, if a. in the opinion of DilliPay, Retailer
+              VistarMoney may terminate this Retailer Agreement of the Retailer
+              with immediate effect, if a. in the opinion of VistarMoney, Retailer
               is not the fit person to perform Services under the provision of
               Retailer Agreement. b. Retailer fails to deposit the proceeds of
-              sale/ receipts made by the Retailer or its retailers to DilliPay
+              sale/ receipts made by the Retailer or its retailers to VistarMoney
               on a daily basis and perpetual basis. c. Retailer becomes the
               subject of a voluntary petitioner in bankruptcy or any voluntary
               proceedings relating to insolvency, liquidation or composition for
               the benefit of the creditors. d. Retailer fails to comply with
-              directions issued by the DilliPay under the provision of this
+              directions issued by the VistarMoney under the provision of this
               Retailer Agreement. Notwithstanding anything to the contrary
-              herein, DilliPay may terminate this Retailer Agreement without
+              herein, VistarMoney may terminate this Retailer Agreement without
               notice.
             </Typography>
             <Typography variant="body1" paragraph>
               Retailer may terminate this Retailer Agreement with written notice
-              of 60 (sixty) days to DilliPay.
+              of 60 (sixty) days to VistarMoney.
             </Typography>
           </section>
           <section>
@@ -974,18 +974,18 @@ const RetailerAgreement = () => {
               Upon termination of this Retailer Agreement for any reason as
               stated in clause 13 above, the Retailer shall a. immediately
               discontinue and cease to use the trade mark, logo, other
-              intellectual property, Software provided by the DilliPay and shall
+              intellectual property, Software provided by the VistarMoney and shall
               immediately hand over all copies or documents of such intellectual
-              property to DilliPay. b. immediately return to DilliPay all
+              property to VistarMoney. b. immediately return to VistarMoney all
               confidential information, originals and copies of any and all
               materials provided to the Retailer under this Retailer Agreement
               or in the course of provision of the services. c. immediately
-              provide remote access to DilliPay to disable any Software that
-              DilliPay has installed with the Retailer. d. immediately remove
-              all sign board, banners, and glowboards of DilliPay from its
+              provide remote access to VistarMoney to disable any Software that
+              VistarMoney has installed with the Retailer. d. immediately remove
+              all sign board, banners, and glowboards of VistarMoney from its
               offices and also all such materials which will indicate any
-              association with DilliPay. e. immediately ceases to promote,
-              market or advertise DilliPay or its products/services. f.
+              association with VistarMoney. e. immediately ceases to promote,
+              market or advertise VistarMoney or its products/services. f.
               immediately clear all dues within the period of 7 days from the
               date of termination.
             </Typography>
@@ -1003,7 +1003,7 @@ const RetailerAgreement = () => {
               15. INDEMNITY
             </Typography>
             <Typography variant="body1" paragraph>
-              The Retailer shall indemnify itself and hold DilliPay and all its
+              The Retailer shall indemnify itself and hold VistarMoney and all its
               financial partners, affiliates, officers, directors, employees,
               successors, and assignees harmless against all customer claims,
               actions, demands, litigations, suits, proceedings, and against all
@@ -1014,13 +1014,13 @@ const RetailerAgreement = () => {
             </Typography>
             <Typography variant="body1" paragraph>
               Notwithstanding anything contained in this Retailer Agreement,
-              DilliPay shall not be liable to the Retailer for any incidental,
+              VistarMoney shall not be liable to the Retailer for any incidental,
               indirect, consequential damages, or loss of revenue or business
               opportunities.
             </Typography>
 
             <Typography variant="body1" paragraph>
-              The Retailer shall ensure that the DilliPay platform or services
+              The Retailer shall ensure that the VistarMoney platform or services
               are not used for money laundering and comply with Anti-Money
               Laundering laws, including but not limited to the Prevention of
               Money Laundering Act, 2002 and the rules and regulations made
@@ -1029,7 +1029,7 @@ const RetailerAgreement = () => {
             <Typography variant="body1" paragraph>
               Retailer undertakes that Retailer will neither allow nor entertain
               requests for transfer of money and/or any transaction through the
-              use of DilliPay Platform or services for the following:
+              use of VistarMoney Platform or services for the following:
               <ul>
                 <li>Any form of drugs;</li>
                 <li>Arms;</li>
@@ -1078,7 +1078,7 @@ const RetailerAgreement = () => {
             <Typography variant="body1" paragraph>
               The Services rendered by the Retailer under this Retailer
               Agreement shall be provided as an independent contractor to
-              DilliPay, and nothing in this Retailer Agreement creates or shall
+              VistarMoney, and nothing in this Retailer Agreement creates or shall
               be deemed to create the relationship of partners, joint venture,
               employees, or principal-agent between the Parties.
             </Typography>
@@ -1100,17 +1100,17 @@ const RetailerAgreement = () => {
 
             <Typography variant="body1" paragraph>
               The Retailer shall maintain all statutory books as required under
-              applicable laws. The Retailer shall permit DilliPay to inspect all
+              applicable laws. The Retailer shall permit VistarMoney to inspect all
               books of accounts, records, and materials during normal business
               hours.
             </Typography>
             <Typography variant="body1" paragraph>
               The Retailer shall ensure KYC details are verified and carry out
-              proper due diligence as instructed by DilliPay.
+              proper due diligence as instructed by VistarMoney.
             </Typography>
             <Typography variant="body1" paragraph>
               During the Term and up to sixty days after the termination of this
-              Retailer Agreement, DilliPay may carry out an audit to determine
+              Retailer Agreement, VistarMoney may carry out an audit to determine
               whether the Retailer has fulfilled its obligations.
             </Typography>
           </section>
@@ -1153,7 +1153,7 @@ const RetailerAgreement = () => {
             <Typography variant="body1" paragraph>
               The Retailer shall not assign, sub-let, or subcontract any of its
               obligations under this Retailer Agreement to a third party unless
-              prior written permission is obtained from DilliPay.
+              prior written permission is obtained from VistarMoney.
             </Typography>
           </section>
 
@@ -1170,9 +1170,9 @@ const RetailerAgreement = () => {
             </Typography>
 
             <Typography variant="body1" paragraph>
-              The Retailer agrees that DilliPay may communicate with them via
+              The Retailer agrees that VistarMoney may communicate with them via
               voice, email, SMS, or any innovative communication method deemed
-              fit by DilliPay.
+              fit by VistarMoney.
             </Typography>
           </section>
 
@@ -1191,7 +1191,7 @@ const RetailerAgreement = () => {
             </Typography>
 
             <Typography variant="body1" paragraph>
-              No legal action or suit can be initiated against DilliPay without
+              No legal action or suit can be initiated against VistarMoney without
               giving prior legal notice within 15 days from when the dispute
               arises. Any legal proceedings shall be subject to the jurisdiction
               of the courts at Delhi.
@@ -1242,7 +1242,7 @@ const RetailerAgreement = () => {
                     verticalAlign: "top",
                   }}
                 >
-                  DILLIPAY TECHNOLOGIES LIMITED
+                  VistarMoney TECHNOLOGIES LIMITED
                 </td>
 
                 <td
@@ -1385,7 +1385,7 @@ const RetailerAgreement = () => {
           </table>
           <Box>
             <Text>Signature :</Text>
-            <img src={dilliPaysign} />
+            {/* <img src={VistarMoneysign} /> */}
           </Box>
 
           <h5

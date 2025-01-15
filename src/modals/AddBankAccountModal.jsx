@@ -145,7 +145,7 @@ const AddBankAccountModal = ({ refresh }) => {
          
         >
           <Box sx={{width:400}} >
-            <ModalHeader title="Add Account" handleClose={handleClose} subtitle="Easily Add New Accounts with DilliPay" />
+            <ModalHeader title="Add Account" handleClose={handleClose} subtitle="Easily Add New Accounts with VistarMoney" />
             <Box
               component="form"
               id="addAcc"

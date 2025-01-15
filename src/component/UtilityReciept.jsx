@@ -128,7 +128,7 @@ export const UtilityReceipt = () => {
                         fontSize: "inherit",
                       }}
                     >
-                      Email: support@dillipay.com
+                      Email: support@VistarMoney.com
                     </p>
                   </Typography>
 
@@ -341,7 +341,7 @@ export const UtilityReceipt = () => {
                 color: "#327B2E",
               }}
             >
-              DilliPay: Your Trusted Bill Payment Partner
+              VistarMoney: Your Trusted Bill Payment Partner
             </Typography>
           </Box>
         </Box>
@@ -453,7 +453,7 @@ export const UtilityReceipt = () => {
                           margin: 0,
                         }}
                       >
-                        Email: support@dillipay.com
+                        Email: support@VistarMoney.com
                       </p>
                     </Typography>
 
@@ -675,7 +675,7 @@ export const UtilityReceipt = () => {
                   fontSize: "12px",
                 }}
               >
-                DilliPay: Your Trusted Bill Payment Partner
+                VistarMoney: Your Trusted Bill Payment Partner
               </Typography>
             </Box>
           </Box>

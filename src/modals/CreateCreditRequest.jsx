@@ -227,7 +227,7 @@ const CreateCreditRequest = ({ refresh, row }) => {
           <Typography variant="body2" sx={{ mb: 4 }}>
             2. The proper records of Fund Request(s), slips, Ref no etc shall
             keep handy by the user of portal/ platform for the purpose of
-            Reconciliation purpose of the company (Dillipay Technologies Ltd)
+            Reconciliation purpose of the company (VistarMoney Technologies Ltd)
             for 12 months from the date of Deposit.
           </Typography>
           <Typography variant="body2" sx={{ mb: 4 }}>
@@ -282,7 +282,7 @@ const CreateCreditRequest = ({ refresh, row }) => {
           <ModalHeader
             title="Add Credit Request"
             handleClose={handleClose}
-            subtitle="Quickly Request Credit with DilliPay Now!"
+            subtitle="Quickly Request Credit with VistarMoney Now!"
           />
           <Box
             component="form"

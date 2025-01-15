@@ -17,16 +17,16 @@ const PrivacyPolicyView = () => {
           <Box sx={{ mt: 3 }}>
             <div>
               <p className="landing-bg_para">
-                DILLIPAY TECHNOLOGIES LIMITED (
-                <strong>“DILLIPAY ”, “we”, “us”, “our”</strong>), respects
+                VistarMoney TECHNOLOGIES LIMITED (
+                <strong>“VistarMoney ”, “we”, “us”, “our”</strong>), respects
                 every individual’s right to privacy and it is our endeavour to
                 protect their personal and Sensitive personal data or
                 information (defined below).
               </p>
               <p className="landing-bg_para">
                 This Privacy Policy (<strong>“Policy”</strong>) applies to all
-                visitors (i.e. those who do not have an Account with DILLIPAY )
-                and users (i.e. those who have an Account with DILLIPAY )
+                visitors (i.e. those who do not have an Account with VistarMoney )
+                and users (i.e. those who have an Account with VistarMoney )
                 (collectively referred to as
                 <strong>“User”</strong>) who share their personal and Sensitive
                 personal data with us, while visiting, accessing, browsing and
@@ -39,7 +39,7 @@ const PrivacyPolicyView = () => {
                 treat your information.
               </p>
               <p className="landing-bg_para">
-                The User acknowledges that this Policy is a part of DILLIPAY ’s
+                The User acknowledges that this Policy is a part of VistarMoney ’s
                 <strong>Terms &amp; Conditions available at</strong>
                 <a href="/terms&condition">Terms &amp; Conditions</a> and all
                 terms defined in the Terms of Use have the same meaning here in
@@ -52,7 +52,7 @@ const PrivacyPolicyView = () => {
                 account with us on our Website.
               </p>
               <p className="landing-bg_para">
-                DILLIPAY TECHNOLOGIES reserves its right to modify, alter, and
+                VistarMoney TECHNOLOGIES reserves its right to modify, alter, and
                 update this Policy at any time, with or without prior notice.
                 Although, Users shall be notified of material changes through
                 their registered email address or any other mode of
@@ -62,7 +62,7 @@ const PrivacyPolicyView = () => {
                 modification, amendment, alteration or change of this Policy,
                 irrespective of whether notice was sent to the User or published
                 on the Website, such User is hereby deemed to provide consent to
-                this Policy and DILLIPAY ’s other Policies and practices
+                this Policy and VistarMoney ’s other Policies and practices
                 existing at the time of visiting, accessing and/or using the
                 Website.
               </p>
@@ -178,7 +178,7 @@ const PrivacyPolicyView = () => {
                 time of creation of their Account on the Website.
               </p>
               <p className="landing-bg_para">
-                DILLIPAY TECHNOLOGIES presumes adequate and lawful parental consent
+                VistarMoney TECHNOLOGIES presumes adequate and lawful parental consent
                 in case the Personal Information or Sensitive personal data or
                 information is shared by a User under the age of 18 years.
               </p>
@@ -321,7 +321,7 @@ const PrivacyPolicyView = () => {
                 where such disclosure is (i) obligated by law, (ii) requested by
                 a lawfully authorized government authority, (iii) pursuant to a
                 judicial decree, (iv) for enforcing and protecting the legal
-                rights of DILLIPAY TECHNOLOGIES or others’, (v) for seeking any
+                rights of VistarMoney TECHNOLOGIES or others’, (v) for seeking any
                 relief, (vi) for defending any charge, (vii) for opposing any
                 claim, (viii) for enforcing this Policy or our Terms of Use,
                 (ix) for obtaining any legal advice. We also reserve our right
@@ -397,17 +397,17 @@ const PrivacyPolicyView = () => {
                 <h3 className="h5">Mailers</h3>
               </div>
               <p className="landing-bg_para">
-                DILLIPAY TECHNOLOGIES may send direct mailers to the User at the
+                VistarMoney TECHNOLOGIES may send direct mailers to the User at the
                 email address given by the User. The User has the option to
                 opt-out of this direct mailer by way of links provided at the
-                bottom of each mailer or any other means as DILLIPAY TECHNOLOGIES
-                deems appropriate. DILLIPAY TECHNOLOGIES respects every User’s
+                bottom of each mailer or any other means as VistarMoney TECHNOLOGIES
+                deems appropriate. VistarMoney TECHNOLOGIES respects every User’s
                 privacy and in the event that User chooses to not receive such
-                mailers, DILLIPAY TECHNOLOGIES will take all steps to remove the
+                mailers, VistarMoney TECHNOLOGIES will take all steps to remove the
                 User from the list. If a User wants to remove his/her/it’s
                 contact information from all mailing lists and newsletters, the
                 same can be done through “Profile” page of his/her/it’s account
-                with DILLIPAY .
+                with VistarMoney .
               </p>
 
               <div className="landing-bg_para">
@@ -432,7 +432,7 @@ const PrivacyPolicyView = () => {
                 April 6, 2018, all Users, including system participants, service
                 providers, intermediaries, payment gateways, third party vendors
                 and other entities in the payments ecosystem, who are retained
-                or engaged by DILLIPAY TECHNOLOGIES for providing payment services
+                or engaged by VistarMoney TECHNOLOGIES for providing payment services
                 shall mandatorily store entire Payment Data in systems located
                 only in India. Notwithstanding the above, for cross border
                 transaction data, consisting of a foreign component and a

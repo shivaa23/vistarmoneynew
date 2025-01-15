@@ -49,8 +49,8 @@ const LandingPage = () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{process.env.REACT_APP_TITLE}</title>
-        <meta name="description" content="DilliPay" />
-        <meta name="keywords" content="DilliPay" />
+        <meta name="description" content="VistarMoney" />
+        <meta name="keywords" content="VistarMoney" />
       </Helmet>
       <div className="app-content
       ">

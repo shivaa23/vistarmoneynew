@@ -419,7 +419,7 @@ const DistributorAgreement = () => {
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            <strong>DILLIPAY TECHNOLOGIES LIMITED</strong>, a company
+            <strong>VistarMoney TECHNOLOGIES LIMITED</strong>, a company
             incorporated under The Companies Act, 2013, having its registered
             office at Plot No 5, Second Floor, Pocket 5, Sector 24, Rohini,
             Delhi-110085.
@@ -435,7 +435,7 @@ const DistributorAgreement = () => {
           </p>
 
           <p>
-            The DilliPay and the Distributor are herein collectively referred to
+            The VistarMoney and the Distributor are herein collectively referred to
             as the “Parties” and individually as a “Party.”
           </p>
 
@@ -452,23 +452,23 @@ const DistributorAgreement = () => {
 
           <ul style={{ paddingLeft: "40px", marginBottom: "30px" }}>
             <li style={{ marginBottom: "15px" }}>
-              <strong>A.</strong> DilliPay is a technology-based company
+              <strong>A.</strong> VistarMoney is a technology-based company
               engaged, inter alia, provides the software/platform services in
               the business of the Fintech industry and caters to a number of
               services like Domestic Money Transfer, Aadhaar Enabled Payment
               System, Utility Bill payments, Recharge, Travel, and many more.
             </li>
             <li style={{ marginBottom: "15px" }}>
-              <strong>B.</strong> DilliPay proposes to appoint Distributor(s) in
+              <strong>B.</strong> VistarMoney proposes to appoint Distributor(s) in
               various cities and regions of India for the purpose of managing
-              retailers to be appointed by DilliPay in such cities and regions
-              and to perform various services offered by DilliPay. Such
+              retailers to be appointed by VistarMoney in such cities and regions
+              and to perform various services offered by VistarMoney. Such
               Distributor may be referred to as Master Distributor (MD) or
               Distributor (DI).
             </li>
             <li style={{ marginBottom: "15px" }}>
               <strong>C.</strong> The Distributor wishes to be appointed as the
-              Distributor in the DilliPay-designated regional territory
+              Distributor in the VistarMoney-designated regional territory
               (hereinafter referred to as "Territory") on the terms & conditions
               contained in this Distributor Agreement. The Parties agree and
               undertake to abide by the terms and conditions of this Agreement.
@@ -487,17 +487,17 @@ const DistributorAgreement = () => {
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Subject to the terms and conditions contained in this Distributor
-            Agreement, DilliPay hereby appoints the Distributor as the
-            Distributor of DilliPay on a non-exclusive basis for the Territory
+            Agreement, VistarMoney hereby appoints the Distributor as the
+            Distributor of VistarMoney on a non-exclusive basis for the Territory
             to provide the services mentioned in Annexure-I (hereinafter
             referred to as "Services"), and the Distributor hereby agrees to
             provide the Services.
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor may describe themselves as DilliPay’s authorized
+            The Distributor may describe themselves as VistarMoney’s authorized
             distributor, but must not hold themselves out as being entitled to
-            bind DilliPay in any way.
+            bind VistarMoney in any way.
           </p>
 
           <h2
@@ -515,7 +515,7 @@ const DistributorAgreement = () => {
             Agreement within 15 days from the signing date. The Agreement is
             valid for 9 years unless terminated in accordance with clause 13.
             Upon expiry and subject to satisfactory performance, the Agreement
-            may be renewed at DilliPay’s discretion.
+            may be renewed at VistarMoney’s discretion.
           </p>
 
           <h2
@@ -529,8 +529,8 @@ const DistributorAgreement = () => {
             3. PROVISION OF SERVICES
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            During the Term, the Distributor shall render to DilliPay services
-            as defined in Annexure-I. DilliPay reserves the right to modify,
+            During the Term, the Distributor shall render to VistarMoney services
+            as defined in Annexure-I. VistarMoney reserves the right to modify,
             alter, and amend the list of Services at any time, and the
             Distributor shall be bound by all such modifications and amendments.
           </p>
@@ -549,13 +549,13 @@ const DistributorAgreement = () => {
             The Parties shall mutually agree upon a Business Plan in relation to
             sourcing retailers. The Distributor agrees to introduce retailers
             per the agreed Business Plan. If unable to meet these numbers,
-            DilliPay may appoint additional Distributors or terminate this
+            VistarMoney may appoint additional Distributors or terminate this
             Agreement.
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor acknowledges responsibility for credit transactions
-            with retailers within the Territory, and DilliPay shall not be
+            with retailers within the Territory, and VistarMoney shall not be
             liable for any disputes arising from these transactions.
           </p>
 
@@ -571,7 +571,7 @@ const DistributorAgreement = () => {
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor shall deposit a sum of INR [……….../=] [……..in
-            words……...] with the DilliPay on or before the effective date. The
+            words……...] with the VistarMoney on or before the effective date. The
             deposit shall be non-interest bearing and shall be refunded at the
             time of termination of the Distributor Agreement in accordance with
             the provision defined in clause 14 (Consequences of Termination) of
@@ -579,20 +579,20 @@ const DistributorAgreement = () => {
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor acknowledges that the DilliPay may reject the
+            The Distributor acknowledges that the VistarMoney may reject the
             deposit at its sole discretion on or before the effective date.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             In addition to the deposit, the Distributor shall maintain and
-            deposit with the DilliPay, working capital to the extent of INR
+            deposit with the VistarMoney, working capital to the extent of INR
             [……….../=] [……..in words……...], which shall also be
             non-interest-bearing. The working capital shall be utilized to
-            provide credit to the retailers appointed by the DilliPay in the
+            provide credit to the retailers appointed by the VistarMoney in the
             Territory, and who (retailers) are managed by the Distributor.
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            Distributor agrees and acknowledges that the DilliPay shall not be
+            Distributor agrees and acknowledges that the VistarMoney shall not be
             responsible or liable in any manner whatsoever for the sources of
             such deposits and/or working capital, and it is the sole
             responsibility of the Distributor to ensure that the sources of such
@@ -600,35 +600,35 @@ const DistributorAgreement = () => {
             with the law of India.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            All the amount due to DilliPay under this Distributor Agreement,
+            All the amount due to VistarMoney under this Distributor Agreement,
             including the deposit and working capital and/or platform fee, shall
             be deposited in accordance with the instructions provided in
-            Annexure-II. Distributor agrees and acknowledges that the DilliPay
+            Annexure-II. Distributor agrees and acknowledges that the VistarMoney
             may, by prior written notice of two business days, modify any of the
             details mentioned in Annexure-II and the Distributor shall be bound
             by all such modifications.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            Distributor acknowledges and agrees that DilliPay strictly prohibits
+            Distributor acknowledges and agrees that VistarMoney strictly prohibits
             any third-party deposits in any bank accounts via any mode
             whatsoever. In the event that Distributor or its Retailer indulges
             in any such transaction(s) knowingly or unknowingly, the Distributor
-            authorizes DilliPay to freeze its account immediately.
+            authorizes VistarMoney to freeze its account immediately.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Distributor shall be entitled to the commission, discount or service
             fee, or such other remuneration referred in the Services, as may be
-            specified by the DilliPay, from time to time and published on
-            DilliPay’s portal. All the amounts paid by way of the commission
+            specified by the VistarMoney, from time to time and published on
+            VistarMoney’s portal. All the amounts paid by way of the commission
             shall be exclusive to all applicable taxes, including goods and
             service tax, surcharge, cess etc., by whatsoever name called, and
             such taxes will be subject to the deduction of tax at source, if
-            applicable; DilliPay shall debit the account of the Distributor to
+            applicable; VistarMoney shall debit the account of the Distributor to
             the extent of such taxes.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The commission shall accrue to the Distributor only on receipt and
-            realization of full payment by the DilliPay of all dues from the
+            realization of full payment by the VistarMoney of all dues from the
             retailers who are managed by the Distributor.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
@@ -639,7 +639,7 @@ const DistributorAgreement = () => {
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Payments made to the Distributor shall be subject to such
             withholding as prescribed under the applicable law, subject to the
-            aforesaid, DilliPay assumes no responsibility for the tax compliance
+            aforesaid, VistarMoney assumes no responsibility for the tax compliance
             of the Distributor.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
@@ -650,7 +650,7 @@ const DistributorAgreement = () => {
             transactions whatsoever.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor agrees and authorizes DilliPay to impose cash
+            The Distributor agrees and authorizes VistarMoney to impose cash
             deposit bank charges which shall be subject to deduction from the
             payments made to the Distributor.
           </p>
@@ -662,33 +662,33 @@ const DistributorAgreement = () => {
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Distributor agrees and acknowledges that in case of any deviation
             with respect to the use of key salt, it shall be solely liable and
-            responsible; and in such event, DilliPay is authorized to
+            responsible; and in such event, VistarMoney is authorized to
             immediately deactivate the account of Distributor without any prior
-            notice. DilliPay shall not be held responsible for any consequences
+            notice. VistarMoney shall not be held responsible for any consequences
             that arise out of any unauthorized use of its platform in any
             manner.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor agrees and authorizes DilliPay to freeze its account
-            or account of its Retailer in the event DilliPay receives any
+            The Distributor agrees and authorizes VistarMoney to freeze its account
+            or account of its Retailer in the event VistarMoney receives any
             complaint from any relevant statutory or non-statutory authority or
             any government department or agency. The Distributor further agrees
-            and authorizes DilliPay to withdraw the disputed amount along with
+            and authorizes VistarMoney to withdraw the disputed amount along with
             the anticipated penalty from the such frozen account.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Distributor agrees and acknowledges that all the sales/ receipts of
-            the distributor regarding the DilliPay shall be immediately Deposit
+            the distributor regarding the VistarMoney shall be immediately Deposit
             or transfer of the funds into the designated Bank Accounts of the
-            DilliPay and shall get limit from the Company/ DilliPay thereafter.
+            VistarMoney and shall get limit from the Company/ VistarMoney thereafter.
             The Distributor shall ensure that the working limit in the portal by
-            DilliPay against the cash deposit or funds transfer is made
+            VistarMoney against the cash deposit or funds transfer is made
             available to the distributor immediately. The Distributor shall
-            inform to the Company/ DilliPay in predefined format, if the
+            inform to the Company/ VistarMoney in predefined format, if the
             distributor fails to inform the same within seven calendar days the
-            amount will be forfeit by the Company/ DilliPay. Distributor may
+            amount will be forfeit by the Company/ VistarMoney. Distributor may
             deposit such cash self or via its employee or agent or any
-            authorized person into the designated Bank Accounts of the DilliPay.
+            authorized person into the designated Bank Accounts of the VistarMoney.
           </p>
         </Page>
         <Page size="A4" style={styles.page}>
@@ -707,14 +707,14 @@ const DistributorAgreement = () => {
             independent offices equipped with the necessary infrastructure and
             workforce required to provide the Services. The Distributor shall
             provide a prior written intimation of any changes in the location of
-            such office to DilliPay.
+            such office to VistarMoney.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            DilliPay may, at its discretion, provide advice to the Distributor
+            VistarMoney may, at its discretion, provide advice to the Distributor
             in relation to exteriors and interiors of the Distributor’s office,
             investment information technology systems, basic accounting and
             business procedure etc. The Distributor shall be bound by such
-            advice of DilliPay.
+            advice of VistarMoney.
           </p>
 
           <h2
@@ -729,7 +729,7 @@ const DistributorAgreement = () => {
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor shall develop adequate and relevant market
-            intelligence in relation to the Territory and shall inform DilliPay
+            intelligence in relation to the Territory and shall inform VistarMoney
             from time to time about the activities of other persons/companies
             engaged in a similar business.
           </p>
@@ -746,7 +746,7 @@ const DistributorAgreement = () => {
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor shall engage the minimum number of personnel as
-            specified by the DilliPay and such other additional personnel as may
+            specified by the VistarMoney and such other additional personnel as may
             be required to effectively provide the Services. The Distributor
             shall ensure that all personnel employed in the provision of the
             Services shall be adequately trained and shall comply with the Term
@@ -756,11 +756,11 @@ const DistributorAgreement = () => {
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor shall be liable and responsible for any data theft
-            or misuse of any data related to clients of DilliPay from its
+            or misuse of any data related to clients of VistarMoney from its
             office.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor agrees and acknowledges that DilliPay will not have
+            The Distributor agrees and acknowledges that VistarMoney will not have
             any obligations, liability or responsibility whatsoever to supervise
             or manage the Distributor's employees, agents or independent
             contractors.
@@ -777,11 +777,11 @@ const DistributorAgreement = () => {
             9. INTELLECTUAL PROPERTY
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            DilliPay hereby grants the Distributor a limited, non-exclusive,
+            VistarMoney hereby grants the Distributor a limited, non-exclusive,
             non-transferable, non-assignable and royalty- free license to use
             the Software for the purpose of providing the Services as
             contemplated under this Distributor Agreement, which may be revoked
-            by DilliPay at its sole discretion.
+            by VistarMoney at its sole discretion.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor is expressly prohibited from distributing,
@@ -791,28 +791,28 @@ const DistributorAgreement = () => {
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Distributor may utilize any third-party software other than the
-            Software provided by DilliPay,only with prior permission from
-            DilliPay.Further,the Distributor shall ensure that the third-party
+            Software provided by VistarMoney,only with prior permission from
+            VistarMoney.Further,the Distributor shall ensure that the third-party
             software is validly licenced and installed.
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The DilliPay shall retain all the rights over all the intellectual
+            The VistarMoney shall retain all the rights over all the intellectual
             property, including the Software, its name and logo and all the
             rights in relation to the promotion and marketing materials. The
             Distributor hereby acknowledges that (a) the execution of this
             Distributor Agreement does not amount to any transfer to it of any
-            intellectual property rights held by the DilliPay prior to the
+            intellectual property rights held by the VistarMoney prior to the
             execution of this Distributor Agreement, nor does this Distributor
-            Agreement in any way limit the DilliPay’s rights over its
+            Agreement in any way limit the VistarMoney’s rights over its
             intellectual property, including the right to licence to others and,
             (b) any and all goodwill arising from the Distributor’s use of the
-            intellectual property shall be exclusive ofDilliPay without any
+            intellectual property shall be exclusive ofVistarMoney without any
             compensation to anyone.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor shall not use the Software of the DilliPay in any
-            manner whatsoever without the written permission of the DilliPay.
+            The Distributor shall not use the Software of the VistarMoney in any
+            manner whatsoever without the written permission of the VistarMoney.
           </p>
         </Page>
         <Page size="A4" style={styles.page}>
@@ -840,7 +840,7 @@ const DistributorAgreement = () => {
             business.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            That Distributor agrees and acknowledges that the DilliPay has a
+            That Distributor agrees and acknowledges that the VistarMoney has a
             responsibility to its customers to keep customer information
             strictly confidential. The Distributor agrees and acknowledges to
             keep all information related to customers strictly confidential that
@@ -872,10 +872,10 @@ const DistributorAgreement = () => {
             any relative or nominee of the Distributor is a director or
             shareholder, 1.) be appointed as a Distributor for any other person
             or legal entity which is carrying on a business similar or in
-            competition with any business carried by DilliPay at the relevant
+            competition with any business carried by VistarMoney at the relevant
             time, whether in India or abroad, or 2.) engage in any business that
             is similar to or in competition with any business carried on by the
-            DilliPay at the relevant time.
+            VistarMoney at the relevant time.
           </p>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
@@ -887,21 +887,21 @@ const DistributorAgreement = () => {
             any relative or nominee of the Distributor is a director or
             shareholder, 1.) be appointed as a Distributor for any other person
             or legal entity which is carrying on a business similar or in
-            competition with any business carried by DilliPay at the relevant
+            competition with any business carried by VistarMoney at the relevant
             time, whether in India or abroad, or 2.) engage in any business that
             is similar to or in competition with any business carried on by the
-            DilliPay at the relevant time.
+            VistarMoney at the relevant time.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             During the Term of this Distributor Agreement, the Distributor shall
             not either directly or indirectly, solicit, cause in any part or
             knowingly encourage any existing or potential clients or customers
-            of DilliPay to cease doing business or not to do business, in whole
-            or in part of with DilliPay, or solicit, cause in any part or
+            of VistarMoney to cease doing business or not to do business, in whole
+            or in part of with VistarMoney, or solicit, cause in any part or
             knowingly encourage any existing or potential clients or customers
-            of DilliPay to do business with any person other then DilliPay, or
+            of VistarMoney to do business with any person other then VistarMoney, or
             associate with any prospective clients or customers while they
-            continue to be clients or customers of DilliPay.
+            continue to be clients or customers of VistarMoney.
           </p>
 
           <h2
@@ -915,8 +915,8 @@ const DistributorAgreement = () => {
             12. EXCLUSIVITY
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor shall only market and promote Services of DilliPay,
-            as authorized by the DilliPay.
+            The Distributor shall only market and promote Services of VistarMoney,
+            as authorized by the VistarMoney.
           </p>
 
           <h2
@@ -931,18 +931,18 @@ const DistributorAgreement = () => {
           </h2>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            DilliPay may terminate this Distributor Agreement of the Distributor
+            VistarMoney may terminate this Distributor Agreement of the Distributor
             with immediate effect, if
           </p>
           <ul style={{ paddingLeft: "40px", marginBottom: "30px" }}>
             <li style={{ marginBottom: "15px" }}>
-              a. In the opinion of DilliPay, the Distributor is not a fit person
+              a. In the opinion of VistarMoney, the Distributor is not a fit person
               to perform Services under the provision of this Distributor
               Agreement.
             </li>
             <li style={{ marginBottom: "15px" }}>
               b. The Distributor fails to deposit the proceeds of sales/receipts
-              made by the Distributor or its retailers to DilliPay on a daily
+              made by the Distributor or its retailers to VistarMoney on a daily
               and perpetual basis.
             </li>
             <li style={{ marginBottom: "15px" }}>
@@ -952,17 +952,17 @@ const DistributorAgreement = () => {
             </li>
             <li style={{ marginBottom: "15px" }}>
               d. The Distributor fails to comply with directions issued by
-              DilliPay under the provision of this Distributor Agreement.
+              VistarMoney under the provision of this Distributor Agreement.
             </li>
           </ul>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            Notwithstanding anything to the contrary herein, DilliPay may
+            Notwithstanding anything to the contrary herein, VistarMoney may
             terminate this Distributor Agreement without notice.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Distributor may terminate this Distributor Agreement with written
-            notice of 60 (sixty) days to DilliPay.
+            notice of 60 (sixty) days to VistarMoney.
           </p>
 
           <h2
@@ -983,27 +983,27 @@ const DistributorAgreement = () => {
           <ul style={{ paddingLeft: "40px", marginBottom: "30px" }}>
             <li style={{ marginBottom: "15px" }}>
               a. Immediately discontinue and cease to use the trademark, logo,
-              other intellectual property, and Software provided by DilliPay,
+              other intellectual property, and Software provided by VistarMoney,
               and shall immediately hand over all copies or documents of such
-              intellectual property to DilliPay.
+              intellectual property to VistarMoney.
             </li>
             <li style={{ marginBottom: "15px" }}>
-              b. Immediately return to DilliPay all confidential information,
+              b. Immediately return to VistarMoney all confidential information,
               originals, and copies of any and all materials provided to the
               Distributor under this Distributor Agreement or in the course of
               provision of the services.
             </li>
             <li style={{ marginBottom: "15px" }}>
-              c. Immediately provide remote access to DilliPay to disable any
-              Software that DilliPay has installed with the Distributor.
+              c. Immediately provide remote access to VistarMoney to disable any
+              Software that VistarMoney has installed with the Distributor.
             </li>
             <li style={{ marginBottom: "15px" }}>
               d. Immediately remove all signboards, banners, and glowboards of
-              DilliPay from its offices, along with any materials indicating an
-              association with DilliPay.
+              VistarMoney from its offices, along with any materials indicating an
+              association with VistarMoney.
             </li>
             <li style={{ marginBottom: "15px" }}>
-              e. Immediately cease to promote, market, or advertise DilliPay or
+              e. Immediately cease to promote, market, or advertise VistarMoney or
               its products/services.
             </li>
             <li style={{ marginBottom: "15px" }}>
@@ -1024,7 +1024,7 @@ const DistributorAgreement = () => {
           </h2>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor shall indemnify itself and hold the DilliPay and all
+            The Distributor shall indemnify itself and hold the VistarMoney and all
             its financial partner, affiliates, officers, directors, employees,
             successors and assignees harmless against all customer claims,
             actions, demands, litigations, suits, proceedings and against all
@@ -1035,12 +1035,12 @@ const DistributorAgreement = () => {
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Notwithstanding anything contained in this Distributor Agreement,
-            DilliPay shall not be liable to the Distributor for any incidental,
+            VistarMoney shall not be liable to the Distributor for any incidental,
             indirect, consequential or damages of any kind or of loss of revenue
             or business opportunities.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            Distributor shall ensure that the DilliPay platform or services are
+            Distributor shall ensure that the VistarMoney platform or services are
             not used for money laun-dering and it is in compliance with
             Anti-Money Laundering laws, including but not to Prevention of Money
             Laundering Act, 2002 and the rules and regulations made under it.{" "}
@@ -1049,7 +1049,7 @@ const DistributorAgreement = () => {
             <li style={{ marginBottom: "15px" }}>
               Distributor undertakes that the Distributor will neither allow nor
               entertain requests for the transfer of money and/or any
-              transaction through the use of the DilliPay Platform or services
+              transaction through the use of the VistarMoney Platform or services
               for the following:
             </li>
             <li style={{ marginBottom: "15px" }}>
@@ -1077,7 +1077,7 @@ const DistributorAgreement = () => {
           </ul>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             Distributor undertakes that Distributor shall not indulge /use the
-            technology platform of Dillipay for the following:{" "}
+            technology platform of VistarMoney for the following:{" "}
           </p>
           <ul style={{ paddingLeft: "40px", marginBottom: "30px" }}>
             <li style={{ marginBottom: "15px" }}>
@@ -1125,7 +1125,7 @@ const DistributorAgreement = () => {
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             The Services rendered by the Distributor under this Distributor
             Agreement shall be provided as an independent contractor to
-            DilliPay, and nothing in this Distributor Agreement creates or shall
+            VistarMoney, and nothing in this Distributor Agreement creates or shall
             be deemed to create the relationship of partners, joint venture,
             employees or principle-agent between the Parties.
           </p>
@@ -1148,7 +1148,7 @@ const DistributorAgreement = () => {
             laws.
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor shall permit the DilliPay, to enter into and inspect
+            The Distributor shall permit the VistarMoney, to enter into and inspect
             all books of accounts, record and materials in relation to the
             business operations related to this Distributor Agreement during
             normal business hours.
@@ -1163,11 +1163,11 @@ const DistributorAgreement = () => {
             to indemnify the company in case of any losses or claims or
             penalties arising out of defective KYC verification process of the
             Customers for any transaction or any process regarding the platform
-            or services of the company/ DilliPay.{" "}
+            or services of the company/ VistarMoney.{" "}
           </p>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
             During the Term and at any time within sixty days after the
-            termination of this Distributor Agreement, DilliPay, through its
+            termination of this Distributor Agreement, VistarMoney, through its
             employees, representatives or agents, may, at its expense, carry out
             an audit to determine whether the audit has properly completed its
             obligations under this Distributor Agreement.
@@ -1189,7 +1189,7 @@ const DistributorAgreement = () => {
             properly executed by Parties hereto, however the changes,
             alterations, modifications or additions in agreement is binding to
             both parties if such changes etc shall be available on the platform
-            of the company/ DilliPay.
+            of the company/ VistarMoney.
           </p>
 
           <h2
@@ -1206,7 +1206,7 @@ const DistributorAgreement = () => {
             The Distributor shall not assign, sub-let, or subcontract any of its
             obligations under this Distributor Agreement to any third party
             unless it obtains prior written permission/consent from the
-            DilliPay. In any event, any assignment or transfer shall not operate
+            VistarMoney. In any event, any assignment or transfer shall not operate
             to relieve the assigning party of any of its obligations hereunder,
             nor will any such assignment impose any obligation on the assignee
             except in the case of express written assumption by the assignee.
@@ -1232,11 +1232,11 @@ const DistributorAgreement = () => {
             20. COMMUNICATION
           </h2>
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor hereby agrees that being a DilliPay Distributor,
-            DilliPay may communicate include communications including but not
+            The Distributor hereby agrees that being a VistarMoney Distributor,
+            VistarMoney may communicate include communications including but not
             limited to voice, email, SMS, digital video, and / or any mode of
             innovative communication method, as deemed fit and proper by the
-            company/ Dillipay.
+            company/ VistarMoney.
           </p>
 
           <h2
@@ -1251,11 +1251,11 @@ const DistributorAgreement = () => {
           </h2>
 
           <p style={{ marginBottom: "20px", marginLeft: "20px" }}>
-            The Distributor hereby agrees that being a DilliPay Distributor,
-            DilliPay may communicate include communications including but not
+            The Distributor hereby agrees that being a VistarMoney Distributor,
+            VistarMoney may communicate include communications including but not
             limited to voice, email, SMS, digital video, and / or any mode of
             innovative communication method, as deemed fit and proper by the
-            company/ Dillipay.{" "}
+            company/ VistarMoney.{" "}
           </p>
 
           <table
@@ -1300,7 +1300,7 @@ const DistributorAgreement = () => {
                     verticalAlign: "top",
                   }}
                 >
-                  DILLIPAY TECHNOLOGIES LIMITED
+                  VistarMoney TECHNOLOGIES LIMITED
                 </td>
 
                 <td

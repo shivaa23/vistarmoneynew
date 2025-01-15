@@ -5,7 +5,7 @@ import Mount from "../component/Mount";
 
 const ModalHeader = ({
   title = "Modal heading",
-  subtitle = "Start your journey with DilliPay.",
+  subtitle = "Start your journey with VistarMoney.",
   handleClose,
   hideCloseBtn,
 }) => {

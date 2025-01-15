@@ -394,7 +394,7 @@ const LoginPage = () => {
                 // marginLeft: { xs: 0, sm: -10, md: -6, lg: 0 },
               }}
             >
-              Dillipay <br /> Simplifying Payments <br /> Amplifying Growth
+              VistarMoney <br /> Simplifying Payments <br /> Amplifying Growth
             </Typography>
           </Grid>
         </Hidden>

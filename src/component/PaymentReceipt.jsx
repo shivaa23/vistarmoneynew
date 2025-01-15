@@ -676,7 +676,7 @@ const PaymentReceipt = () => {
                         fontFamily: "'Roboto', sans-serif",
                       }}
                     >
-                      Email: support@dillipay.com
+                      Email: support@VistarMoney.com
                     </Typography>
                   </Box>
 
