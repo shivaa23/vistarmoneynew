@@ -15,7 +15,7 @@ const PageNotFound = () => {
         Error page Not Found
         <Button
           onClick={() => {
-            navigate("/login");
+            navigate("/");
           }}
         >
           Login Here

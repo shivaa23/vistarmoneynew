@@ -311,8 +311,8 @@ const LoginPage = () => {
               night to 6:00AM. Please Login after 6:00AM.Thanks
             </Typography>
             <Grid container alignItems="center" sx={{ mt: 2 }}>
-              <Grid item xs={6}>
-                <LogoComponent />
+              <Grid item xs={6} >
+                <LogoComponent  />
               </Grid>
               <Grid item xs={6} sx={{ textAlign: "right" }}>
                 <Box
@@ -423,9 +423,10 @@ const LoginPage = () => {
                 sx={{
                   maxWidth: "50%",
                   // maxHeight: "46%",
-                  maxHeight: "80vh",
+                  maxHeight: "60vh",
                   objectFit: "cover",
                   mb: 4,
+                  mt:4
                 }}
                 onClick={() => navigate("/")}
               />

@@ -132,7 +132,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/login" element={<LoginPage />} />
+          <Route path="/" element={<LoginPage />} />
           <Route path="/login-copy" element={<LoginPageCopy />} />
           <Route path="/UtilityReciept" element={<UtilityReceipt />} />
 
@@ -146,7 +146,7 @@ function App() {
           />
           <Route path="/sign-up" element={<SignUp />} />
           <Route path="" element={<MainPage />}>
-            <Route path="/" element={<LandingPage />} />
+            {/* <Route path="/" element={<LandingPage />} /> */}
             <Route path="our-services" element={<LandingServicesPage />} />
             <Route path="about-us" element={<LandingAboutUsPage />} />
             <Route path="our-partners" element={<LandingPartnersPage />} />

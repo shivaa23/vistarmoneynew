@@ -40,7 +40,7 @@ const LogoComponent = ({ width = "80px", pl = "", style }) => {
         }
       }
     } else {
-      navigate("/login");
+      navigate("/");
     }
   };
   return (

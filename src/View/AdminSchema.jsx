@@ -27,7 +27,7 @@ const AdminSchema = () => {
     { label: "Payout Scheme", content: <AdminPayoutSchema />,icon:<AssignmentIndIcon/> },
     { label: "Aeps Scheme", content: <AdminAepsSchema />,icon:<AssignmentIndIcon/> },
     { label: "Card Scheme", content: <AdminCardSchema />,icon:<AssignmentIndIcon/> },
-    { label: "Bank Scheme", content: <AdminBankSchema />,icon:<AssignmentIndIcon/> },
+    // { label: "Bank Scheme", content: <AdminBankSchema />,icon:<AssignmentIndIcon/> },
     // { label: "Prabhu Transfer", content: <AdminPraBhu  /> },
  
 

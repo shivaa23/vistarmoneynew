@@ -4,7 +4,7 @@
 export const BASE_URL = "https://api.dillipay.com";
 // export const BASE_URL = "https://api.dillipay.com";
 // export const BASE_URL = "http://192.168.1.14/impsguru-php/";
-
+// export const BASE_URL = "https://api.vistarmoney.com";
 const ApiEndpoints = {
   COOKIE: "sanctum/csrf-cookie",
   SIGN_IN: "auth/signIn",
