@@ -210,44 +210,44 @@ const RetDdDashboard = () => {
           img: cylinder,
           component: NewCreditCard,
         },
-        {
-          id: 19,
-          name: "Demand Note (Electricity)",
-          img: demand,
-          component: NewCreditCard,
-        },
-        {
-          id: 20,
-          name: "IGL Commercial B",
-          img: BBPS,
-          component: NewCreditCard,
-        },
-        {
-          id: 21,
-          name: "Part Payment Electricity",
-          img: BBPS,
-          component: NewCreditCard,
-        },
+        // {
+        //   id: 19,
+        //   name: "Demand Note (Electricity)",
+        //   img: demand,
+        //   component: NewCreditCard,
+        // },
+        // {
+        //   id: 20,
+        //   name: "IGL Commercial B",
+        //   img: BBPS,
+        //   component: NewCreditCard,
+        // },
+        // {
+        //   id: 21,
+        //   name: "Part Payment Electricity",
+        //   img: BBPS,
+        //   component: NewCreditCard,
+        // },
       ].filter(Boolean),
     },
-    {
-      title: "Wealth Management",
-      data: [
-        {
-          id: 1,
-          name: "New Credit Card",
-          img: newCredit,
-          component: NewCreditCard,
-        },
-        {
-          id: 2,
-          name: "Mutual Funds",
-          img: mutualfunds,
-          component: MutualFunds,
-        },
-        { id: 3, name: "New Loans", img: Loan, component: NewLoan },
-      ].filter(Boolean),
-    },
+    // {
+    //   title: "Wealth Management",
+    //   data: [
+    //     {
+    //       id: 1,
+    //       name: "New Credit Card",
+    //       img: newCredit,
+    //       component: NewCreditCard,
+    //     },
+    //     {
+    //       id: 2,
+    //       name: "Mutual Funds",
+    //       img: mutualfunds,
+    //       component: MutualFunds,
+    //     },
+    //     { id: 3, name: "New Loans", img: Loan, component: NewLoan },
+    //   ].filter(Boolean),
+    // },
     {
       title: "Travel",
       data: [
