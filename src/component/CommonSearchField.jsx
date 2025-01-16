@@ -18,7 +18,6 @@ const CommonSearchField = ({
   label,
   placeholder,
   labelKey,
-  ifBankFilter,
   valKey,
   valueGetter,
   defaultVal = "",
@@ -27,8 +26,8 @@ const CommonSearchField = ({
   loading = false,
 }) => {
   const filterOptions = createFilterOptions({
-    matchFrom: "start",
-    stringify: (option) => option[labelKey],
+    matchFrom: "any",
+    stringify: (option) => `${option[labelKey]} ${option.username}`,
   });
 
   const [value, setValue] = useState({ label: "", value: null });
@@ -41,7 +40,7 @@ const CommonSearchField = ({
 
   useEffect(() => {
     if (defaultVal) {
-      const foundItem = list.find((item) => item.id == defaultVal);
+      const foundItem = list.find((item) => item[valKey] === defaultVal);
       if (foundItem) {
         setValue({ label: foundItem[labelKey], value: foundItem[valKey] });
       }
@@ -50,20 +49,17 @@ const CommonSearchField = ({
 
   useEffect(() => {
     if (debouncedValue) {
-      if (list && list.length > 0) {
-        const arr = list
-          .filter((item) =>
-            item?.name?.toLowerCase().includes(debouncedValue.toLowerCase())
-          )
-          .map((item) => ({
-            id: item.id,
-            name: item.name,
-            username: item.username,
-          }));
-        setSearchResult(arr);
-      }
+      const lowerCaseValue = debouncedValue.toLowerCase();
+      const filteredList = list.filter(
+        (item) =>
+          item[labelKey]?.toLowerCase().includes(lowerCaseValue) ||
+          String(item.username).includes(debouncedValue)
+      );
+      setSearchResult(filteredList);
+    } else {
+      setSearchResult([]);
     }
-  }, [debouncedValue, list]);
+  }, [debouncedValue, list, labelKey]);
 
   const handleChange = (e) => {
     if (e.target.value) {
@@ -92,14 +88,14 @@ const CommonSearchField = ({
             freeSolo
             size="small"
             options={
-              list.length < 100 ? list : searchResult ? searchResult : ""
+              list.length < 100 ? list : searchResult ? searchResult : []
             }
             value={value}
             onChange={(event, newValue) => {
               if (newValue) {
                 setValue({
                   label: newValue[labelKey],
-                  value: newValue[labelKey],
+                  value: newValue[valKey],
                 });
                 valueGetter({
                   label: newValue[labelKey],
@@ -200,5 +196,4 @@ const CommonSearchField = ({
     </div>
   );
 };
-
 export default CommonSearchField;

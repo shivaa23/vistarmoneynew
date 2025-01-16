@@ -13,7 +13,7 @@ function CustomTabs({ tabs, value, onChange, heading }) {
           aria-label="full width tabs example"
           sx={{
             "& .MuiTabs-indicator": {
-              backgroundColor: "#D53E3E",
+              backgroundColor: "#FFA500",
             },
             "& .MuiTab-root": {
               color: "#000",
