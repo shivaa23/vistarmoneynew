@@ -8,7 +8,7 @@ const CommonCardDashBoard = ({ name, img, onClick }) => {
         <Box
           sx={{
             display: "flex",
-            flexDirection: "column", 
+            flexDirection: "column",
             alignItems: "center",
             justifyContent: "center",
             background:
@@ -19,7 +19,10 @@ const CommonCardDashBoard = ({ name, img, onClick }) => {
             width: "100%",
             height: "100%",
             overflow: "hidden",
-            padding: { xs: "8px", sm: "12px" }, // Add padding for extra space
+            padding: { xs: "8px", sm: "12px" },
+            border: "2px solid orange", // Add orange border
+            borderRadius: "10px", // Optional: Add rounded corners
+            boxShadow: "0px 4px 6px rgba(0, 0, 0, 0.1)", // Optional: Shadow effect
           }}
           onClick={onClick}
         >
@@ -39,7 +42,7 @@ const CommonCardDashBoard = ({ name, img, onClick }) => {
                 "transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out",
               "&:hover": {
                 transform: "scale(1.05)",
-               boxShadow: "0px 4px 1px rgba(0, 176, 89, 0.5)",
+                boxShadow: "0px 4px 1px rgba(176, 123, 0, 0.5)",
               },
             }}
           >
@@ -49,7 +52,7 @@ const CommonCardDashBoard = ({ name, img, onClick }) => {
               style={{
                 width: "55px",
                 height: "55px",
-                borderRadius: "30%", 
+                borderRadius: "30%",
               }}
             />
           </Box>
@@ -57,12 +60,12 @@ const CommonCardDashBoard = ({ name, img, onClick }) => {
             variant="subtitle1"
             sx={{
               fontWeight: 500,
-              textAlign: "center", 
+              textAlign: "center",
               overflow: "hidden",
-              textOverflow: "ellipsis", 
+              textOverflow: "ellipsis",
               whiteSpace: "nowrap",
-              maxWidth: "100%", 
-              fontSize: { xs: "12px", sm: "14px" }, 
+              maxWidth: "100%",
+              fontSize: { xs: "12px", sm: "14px" },
             }}
           >
             {name}

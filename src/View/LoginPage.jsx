@@ -395,6 +395,7 @@ const LoginPage = () => {
     alt="Login Page Illustrator"
     sx={{
       borderRadius:"20px",
+      mt:1,
      // Add some margin to separate from the Typography
       width: "100%", // Adjust as needed
       maxWidth: "400px", // Optional: limit the max width
