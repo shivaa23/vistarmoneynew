@@ -260,8 +260,8 @@ const VerifyMpinLogin = ({
         data,
         setRequest,
         (res) => {
-          if (res && res.data && res.data?.data?.access_token) {
-            const access = res?.data?.data?.access_token;
+          if (res && res.data && res.data?.data?.access_token||res?.data?.access_token) {
+            const access = res?.data?.data?.access_token ||res?.data?.access_token;
             authCtx.login(access);
             get(
               ApiEndpoints.GET_ME_USER,
